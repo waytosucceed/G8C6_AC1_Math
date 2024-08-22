@@ -1,0 +1,62 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "What is the sum of the first five prime numbers?",
+        "options": [
+            "24",
+            "25",
+            "26",
+            "28"
+        ],
+        "correct": 3,
+      "img": "./assests/images/1.jpg"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Which of the following numbers is NOT a prime number?",
+        "options": [
+            "299",
+            "307",
+            "311",
+            "313"
+        ],
+        "correct": 0,
+      "img": "./assests/images/2.jpg"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Which of the following pairs of numbers are coprime?",
+        "options": [
+            "(12, 18)",
+            "(15, 25)",
+            "(20, 30)",
+            "(8, 12)"
+        ],
+        "correct": 1,
+      "img": "./assests/images/3.jpg"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "What is the largest 3 digit prime number?",
+        "options": [
+            "999",
+            "993",
+            "991",
+            "997"
+        ],
+        "correct": 3,
+      "img": "./assests/images/4.jpg"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Which of the following pairs of numbers are twin primes?",
+        "options": [
+            "(4, 7)",
+            "(11, 13)",
+            "(17, 20)",
+            "(23, 27)"
+        ],
+        "correct": 1,
+      "img": "./assests/images/5.jpg"
+    }
+]
